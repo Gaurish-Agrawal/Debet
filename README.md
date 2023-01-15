@@ -1,4 +1,4 @@
-#Debet [Put you money on The-Bet]
+#Debet [Put your money on The-Bet]
 
 Project is submission for Treasure Hacks
  - Team: Gaurish Agrawal, Aniket Gupta, Aahan Patel, Kabir Rakshe
